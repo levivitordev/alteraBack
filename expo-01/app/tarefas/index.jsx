@@ -1,4 +1,4 @@
-import { adicionarTarefa, getTarefas } from "@/back4app";
+import { adicionarTarefa, getTarefas } from "@/api";
 import { useTaskFilter } from "@/zustand";
 import { useMutation, useQuery, useQueryClient } from "@tanstack/react-query";
 import { useRouter } from "expo-router";
