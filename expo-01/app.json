@@ -47,14 +47,15 @@
     "extra": {
       "router": {},
       "eas": {
-        "projectId": "9858e7ed-da74-4f2b-8fa2-f07544205e7d"
+        "projectId": "1f5adb99-072e-4b8b-89ec-4b01288c794f"
       }
     },
     "runtimeVersion": {
       "policy": "appVersion"
     },
     "updates": {
-      "url": "https://u.expo.dev/9858e7ed-da74-4f2b-8fa2-f07544205e7d"
-    }
+      "url": "https://u.expo.dev/1f5adb99-072e-4b8b-89ec-4b01288c794f"
+    },
+    "owner": "vitxr"
   }
 }
