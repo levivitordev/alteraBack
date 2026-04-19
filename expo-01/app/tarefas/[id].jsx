@@ -59,7 +59,7 @@ export default function TarefaDetalhesPage() {
       Alert.alert("Erro", "A descrição não pode estar vazia.");
       return;
     }
-    updateMutation.mutate({ id: id, descricao, concluida });
+    updateMutation.mutate({ objectId: id, descricao, concluida });
   }
 
   function handleDelete() {
